@@ -1,5 +1,5 @@
 # Project Description
-* __project-name__: arise_seasonalprediction
+* __project-name__: SAI_Seasonal_Prediction
 * __authors__: Kirsten J. Mayer, Elizabeth A. Barnes, James Hurrell
 * __date__: June 13, 2022
 
